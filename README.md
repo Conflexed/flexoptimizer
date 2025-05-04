@@ -73,4 +73,4 @@ For improvements, bugs, or contributions:
 
 ## 🐛 Virus Total Report
 
-https://www.virustotal.com/gui/file/d95cb82ab98638d235384de08956e6890e852584cd2631cdcf3bbce040b60f0e
+https://www.virustotal.com/gui/file/d95cb82ab98638d235384de08956e6890e852584cd2631cdcf3bbce040b60f0e](https://www.virustotal.com/gui/file/058207b0315b1ad1ff0c1861e9ab9155205007f95696e3de9a8e26ac5fd6be89?nocache=1
