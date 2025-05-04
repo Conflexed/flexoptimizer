@@ -1,6 +1,6 @@
 # ⚡ Flex Optimizer
 
-**Created by [Conflexed]**
+**Created by Conflexed**
 
 Flex Optimizer is a lightweight and easy-to-use batch-based tool designed to improve your Windows network performance. Built with simplicity and clarity in mind, it offers a clean, organized interface that allows users to apply powerful TCP, NetSH, and QoS optimizations with just a few selections.
 
@@ -15,7 +15,7 @@ Flex Optimizer was made to help competitive and casual gamers alike achieve bett
 ## ✅ Features
 
 - 🧠 **Simple CLI Menu** – User-friendly, cleanly spaced text-based menu  
-- 🔧 **TCP Settings Optimization** – Tweak advanced TCP stack registry values  
+- 🔧 **TCP Settings Optimization** - Tweak advanced TCP stack registry values  
 - 🛰️ **NetSH Commands** – Apply low-latency netsh tweaks for improved networking  
 - 🎮 **QoS Enhancements** – Override default QoS profiles and boost game traffic priority  
 - ♻️ **Loop Functionality** – Re-run different optimization categories without restarting  
@@ -34,7 +34,7 @@ Flex Optimizer was made to help competitive and casual gamers alike achieve bett
    - QoS Optimizations
    - Restart Network Adapter
 4. You’ll be asked if you'd like to apply anything else.
-5. Done — your network stack is now supercharged.
+5. Done - your network stack is now supercharged.
 
 ---
 
@@ -58,6 +58,7 @@ Flex Optimizer was made to help competitive and casual gamers alike achieve bett
 ## 🧠 Recommended Use Cases
 
 - FPS games like Valorant, CS2, Fortnite, Apex, etc.  
+-Looking to improve bullet registration in said games
 - Competitive LAN and online gaming  
 - High-throughput or latency-sensitive environments  
 
@@ -67,3 +68,7 @@ Flex Optimizer was made to help competitive and casual gamers alike achieve bett
 
 For improvements, bugs, or contributions:  
 📧 **Contact Conflexed** via Discord or GitHub
+
+## 🐛 Virus Total Report
+
+https://www.virustotal.com/gui/file/d95cb82ab98638d235384de08956e6890e852584cd2631cdcf3bbce040b60f0e
