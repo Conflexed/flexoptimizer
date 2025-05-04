@@ -8,7 +8,7 @@ Flex Optimizer is a lightweight and easy-to-use batch-based tool designed to imp
 
 ## 🎯 Purpose
 
-Flex Optimizer was made to help competitive and casual gamers alike achieve better networking performance with zero bloat. Whether you’re looking to reduce latency, boost download speeds, or improve responsiveness in TCP-based shooters — Flex Optimizer is built for you.
+Flex Optimizer was made to help competitive and casual gamers alike achieve better networking performance with zero bloat. Whether you’re looking to reduce latency, boost download speeds, or improve responsiveness in TCP-based shooters - Flex Optimizer is built for you.
 
 ---
 
