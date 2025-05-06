@@ -33,6 +33,7 @@ Flex Optimizer was made to help competitive and casual gamers alike achieve bett
    - NetSH Optimizations
    - QoS Optimizations
    - DNS Optimizations
+   - Flush DNS Cache
    - Restart Network Adapter
    - Backup Registry
 4. You’ll be asked if you'd like to apply anything else.
